@@ -6,4 +6,4 @@
 ## Documents
 ### COMA
 * [Scenario to journey conversion in COMA Batch](COMA/bot_generated_descriptions/scenario_to_journey_conversion.md)
-* [Changes required for specific timestamp in COMA Batch](COMA/implementation_proposals/NEW_WAIT.md)
+* [Changes required for specific timestamp in WAIT block in COMA Batch](COMA/implementation_proposals/NEW_WAIT.md)
